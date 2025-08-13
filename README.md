@@ -48,3 +48,5 @@ Model Explainability: If using complex models, incorporate techniques like LIME 
 Deployment: Consider deploying the model as a web service for wider accessibility and integration with Yaatra's booking platform.
 
 ![image alt](https://github.com/nitinsinha29/YAATRA-Package-Prediction/blob/ebdd8099e3827705b3a31e5ae4241e6014e7c086/yatra%20pic.jpg)
+
+![image alt](https://github.com/nitinsinha29/YAATRA-Package-Prediction/blob/32edc87e33644b0f37b2ccefc19443b2cc9caad5/yatrapic2.jpg)
