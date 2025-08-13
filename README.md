@@ -38,7 +38,7 @@ Download and save the project files (app.py and potentially others).
 Open a command prompt (CMD) and navigate to the directory containing the files.
 Install required libraries (numpy, pandas, Flask, scikit-learn) using pip install numpy pandas Flask scikit-learn.
 Run the application using python app.py.
-Access the application at the provided URL ([invalid URL removed]:port_number, the port might differ).
+Access the application at the provided URL ().
 Fill in the details and view the model's prediction.
 
 Potential Improvements:
