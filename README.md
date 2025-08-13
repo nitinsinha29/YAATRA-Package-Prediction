@@ -47,6 +47,12 @@ Model Selection: Explore different machine learning algorithms (e.g., random for
 Model Explainability: If using complex models, incorporate techniques like LIME or SHAP to explain model predictions and gain insights into customer behavior.
 Deployment: Consider deploying the model as a web service for wider accessibility and integration with Yaatra's booking platform.
 
+The web page of my model ( user input ) : 
+
 ![image alt](https://github.com/nitinsinha29/YAATRA-Package-Prediction/blob/ebdd8099e3827705b3a31e5ae4241e6014e7c086/yatra%20pic.jpg)
 
 ![image alt](https://github.com/nitinsinha29/YAATRA-Package-Prediction/blob/32edc87e33644b0f37b2ccefc19443b2cc9caad5/yatrapic2.jpg)
+
+The Final Result of my input Data is : 
+
+![image alt](https://github.com/nitinsinha29/YAATRA-Package-Prediction/blob/5f5b9b7e6e22380240fcc2b759f65b00b2ce0bf6/164744.jpg)
