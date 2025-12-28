@@ -19,7 +19,7 @@ By leveraging **Machine Learning**, we can help the marketing team target the ri
 ![image alt](https://github.com/nitinsinha29/YAATRA-Package-Prediction/blob/ebdd8099e3827705b3a31e5ae4241e6014e7c086/yatra%20pic.jpg)
 
 ### 2. The Prediction Result
-![image alt](https://github.com/nitinsinha29/YAATRA-Package-Prediction/blob/32edc87e33644b0f37b2ccefc19443b2cc9caad5/yatrapic2.jpg)
+![image alt](https://github.com/nitinsinha29/YAATRA-Package-Prediction/blob/5f5b9b7e6e22380240fcc2b759f65b00b2ce0bf6/164744.jpg)
 
 
 ## 🛠 Tech Stack
@@ -86,4 +86,4 @@ If you want to run the web application on your local machine:
 
 
 
-![image alt](https://github.com/nitinsinha29/YAATRA-Package-Prediction/blob/5f5b9b7e6e22380240fcc2b759f65b00b2ce0bf6/164744.jpg)
+
